@@ -30,7 +30,7 @@
 Beaverton, OR — November 2012 to Present
 
 ### Developer III, The Nerdery
-Minneapolis, MN — March 2013 to October 2013  
+Minneapolis, MN — March 2012 to October 2013  
 Promoted from Developer II in March 2013
 
 I lead over a dozen projects and contributed to 70+ different projects, as a
