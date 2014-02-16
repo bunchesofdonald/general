@@ -4,9 +4,9 @@
  * <http://chrispickett.me/>
  * (317) 219-3161
 
-### Skills
+## Skills
 
-## Languages & Frameworks
+### Languages & Frameworks
 
 - Python
 - Django
@@ -16,7 +16,7 @@
 - Perl
 - PHP
 
-## Other
+### Other
 
 - PostgreSQL
 - MySQL
@@ -34,8 +34,8 @@ Minneapolis, MN — March 2013 to October 2013
 Promoted from Developer II in March 2013
 
 I lead over a dozen projects and contributed to 70+ different projects, as a
-team member, mentor and consultant. My primary focus has been Python,
-specializing in Django.
+team member, mentor and consultant. My primary focus was Python, specializing
+in Django.
 
 **Accomplishments**
 
