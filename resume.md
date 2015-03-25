@@ -26,7 +26,7 @@
 
 ## Experience
 
-### Senior Software Engineer, Safari Books Online
+### Software Engineer, Safari Books Online
 Beaverton, OR — November 2012 to Present
 
 ### Developer III, The Nerdery
