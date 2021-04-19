@@ -4,9 +4,9 @@
  * <http://chrispickett.me/>
  * (317) 219-3161
 
-### Skills
+## Skills
 
-## Languages & Frameworks
+### Languages & Frameworks
 
 - Python
 - Django
@@ -16,7 +16,7 @@
 - Perl
 - PHP
 
-## Other
+### Other
 
 - PostgreSQL
 - MySQL
@@ -26,15 +26,16 @@
 
 ## Experience
 
-### Software Engineer, Safari Books Online
+### Senior Software Engineer, Safari Books Online
 Beaverton, OR — November 2012 to Present
+Promoted from Software Engineer, December 2015
 
 ### Developer III, The Nerdery (Promoted from Developer II, March 2013)
 Minneapolis, MN — March 2012 to October 2013
 
 I lead over a dozen projects and contributed to 70+ different projects, as a
-team member, mentor and consultant. My primary focus has been Python,
-specializing in Django.
+team member, mentor and consultant. My primary focus was Python, specializing
+in Django.
 
 **Accomplishments**
 
