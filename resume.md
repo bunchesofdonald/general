@@ -1,7 +1,7 @@
 # Christopher Pickett
 
- * <chris.pickett@gmail.com>
- * <http://chrispickett.me/>
+ * <chris@pickett.xyz>
+ * <https://pickett.xyz/>
  * (317) 219-3161
 
 ## Skills
@@ -11,26 +11,40 @@
 - Python
 - Django
 - Javascript
-- Backbone.js
-- HTML / CSS
-- Perl
-- PHP
 
 ### Other
 
-- PostgreSQL
-- MySQL
 - Celery
-- Apache / nginx / uwsgi
-- Linux administration
+- Jenkins
+- Kubernetes / Google Cloud
+- Nginx / uWSGI
+- PostgreSQL / MySQL / SQLite
+- Docker
 
 ## Experience
 
-### Senior Software Engineer, Safari Books Online
-Beaverton, OR — November 2012 to Present
-Promoted from Software Engineer, December 2015
+### Principal Software Engineer, O'Reilly Media
+Portland, OR — November 2012 to Present
 
-### Developer III, The Nerdery (Promoted from Developer II, March 2013)
+I started with Safari Books Online in late 2012 as a software engineer, but was
+quickly promoted to Senior and then Principal.
+
+For the first few years I was doing full-stack development, working with
+finance APIs and building out user-facing features. But for the past few years
+I've been focused on breaking down our monolith, microservice architecture and
+developer experience.
+
+**Accomplishments**
+
+- Integral in launching several large features to the main site.
+- Created JWT-based authentication system and all of the tooling for our Python
+  services to use it.
+- Created internal tools that reduced the turn-around time for building and
+  releasing microservices to production from months to weeks, and even a single
+  day in some cases.
+- Created unit-testing tools to keep APIs and documentation in sync.
+
+### Developer III, The Nerdery
 Minneapolis, MN — March 2012 to October 2013
 
 I lead over a dozen projects and contributed to 70+ different projects, as a
@@ -49,6 +63,7 @@ in Django.
   whatever they’ve given me.
 - Founding member of the Python committee and was instrumental in forming
   python standards and documentation.
+
 
 ### Software Engineer, National Realty Systems
 Cicero, IN — January 2002 to March 2012
